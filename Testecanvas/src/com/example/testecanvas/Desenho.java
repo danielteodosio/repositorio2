@@ -21,6 +21,7 @@ public class Desenho extends View implements Runnable{
 	
  	 
 	 //variaveis de posição
+	//Apenas um comentario de teste
  	 
 	
 	
