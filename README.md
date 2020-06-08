@@ -5,17 +5,15 @@
 - **Motivação**: Criar familiaridade com desenvolvimento nativo para android (primeiro contato com desenvolvimento android).
 
 ### Tela inicial:
-<center>
-	<img src="https://github.com/danielteodosio/testCanvas/blob/media/images/im0.jpg?raw=true" width="300"/>
-</center>
+
+	<img src="https://github.com/danielteodosio/testCanvas/blob/media/images/im0.jpg?raw=true" width="250" align="center"/>
+
 ### Menu:
-<center>
-	<img src="https://github.com/danielteodosio/testCanvas/blob/media/images/im1.jpg?raw=true" width="300"/>
-</center>
+
+	<img src="https://github.com/danielteodosio/testCanvas/blob/media/images/im1.jpg?raw=true" width="250" align="center"/>
+
 ### Telas de jogo:
-<center>
-	<img src="https://github.com/danielteodosio/testCanvas/blob/media/images/im2.jpg?raw=true" width="300"/>
-<center/>
-<center>
-	<img src="https://github.com/danielteodosio/testCanvas/blob/media/images/im3.jpg?raw=true" width="300"/>
-<center/>
+
+	<img src="https://github.com/danielteodosio/testCanvas/blob/media/images/im2.jpg?raw=true" width="250" align="center"/>
+
+	<img src="https://github.com/danielteodosio/testCanvas/blob/media/images/im3.jpg?raw=true" width="250" align="center"/>
